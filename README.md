@@ -14,7 +14,7 @@ Hey :wave: I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software E
 
 ## I'm a  :point_down:
 
-- :Intellij Idea: Full Stack Web Developer (Springboot | Angular | Vue Js)
+- :Intellij Idea: Full Stack Web Developer (Springboot | Angular 7)
 - :Android Studio: Android Application Developer (Java)
 - :Netbeans: Desktop Application (Java Swing)
 - 🌏 Open-Source Enthusiast
