@@ -8,14 +8,14 @@
 Hey :wave: I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software Engineering** in **Daffodil International University** in Dhaka :bangladesh:
 
 <p align='center'>
- <a href = "https://drive.google.com/drive/folders/11rF1eZOeLsv6Hgj3P9AN9FvoezelKQlo?usp=sharing" > 🧠 Here is my Resume </a> 
+ <a href = "https://drive.google.com/drive/folders/11rF1eZOeLsv6Hgj3P9AN9FvoezelKQlo?usp=sharing" > Here is my Resume </a> 
 <p/>
 
 
 ## I'm a  :point_down:
 
-- :Intellij Idea: Full Stack Web Developer (Springboot | Angular 7)
-- :Android Studio: Android Application Developer (Java)
+- :Intellij Idea: Full Stack Web Developer (Springboot | Angular 11)
+- :App Development: Java and React Native
 - :Netbeans: Desktop Application (Java Swing)
 - 🌏 Open-Source Enthusiast
 - :computer: Linux Enthusiast (Dabian Based)
@@ -25,9 +25,9 @@ Hey :wave: I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software E
 
 ## 🤝 Available For : 
 
-- 🖥️ Full stack web development with Springboot & Angular 7 or Vue Js   
-- 📱 Android Application Development with Java 
-- 👽 Machine Learning Research | Paper 
+- 🖥️ Full stack web development with Springboot & Angular 11 or Reacts   
+- 📱 Android Application Development with Java and react native 
+- 👽 Bio Informatics Research | Paper 
 - 🤞 Startup Ideas | Project
 - ⌨️ Freelancing Projects 
 
