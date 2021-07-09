@@ -3,7 +3,6 @@
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=moniruzzamanrony&hide_border=true&layout=compact">
 <p/>
 <br>
-**Welcome to my profile**
 
 Hey :wave: I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software Engineering** in **Daffodil International University** in Dhaka :bangladesh:
 
