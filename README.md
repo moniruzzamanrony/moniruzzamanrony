@@ -10,9 +10,9 @@ Hey ,<br> I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software En
  <a href = "https://drive.google.com/drive/folders/11rF1eZOeLsv6Hgj3P9AN9FvoezelKQlo?usp=sharing" > Here is my Resume </a> 
 <p/>
 
-
-### Contact And Social
-
+<div align='center'>
+ <b>Contact And Social</b>
+</div>
 <p align='center'>
  <a href = "mailto:eproni29@gmail.com" > <img src="https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social" > </a> 
  <a href = "https://twitter.com/eproni29" > <img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" > </a> 
