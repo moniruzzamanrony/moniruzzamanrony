@@ -11,25 +11,6 @@ Hey :wave: I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software E
 <p/>
 
 
-## I'm a  :point_down:
-
-- Intellij Idea: Full Stack Web Developer (Springboot | Angular 11)
-- App Development: Java and React Native
-- Netbeans: Desktop Application (Java Swing)
-- Open-Source Enthusiast
-- computer: Linux Enthusiast (Dabian Based)
-
-
-
-## 🤝 Available For : 
-
-- 🖥️ Full stack web development with Springboot & Angular 11 or Reacts   
-- 📱 Android Application Development with Java and react native 
-- 👽 Bio Informatics Research | Paper 
-- 🤞 Startup Ideas | Project
-- ⌨️ Freelancing Projects 
-
-
 ### Contact And Social
 
 <p align='center'>
