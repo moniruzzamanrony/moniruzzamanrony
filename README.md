@@ -4,7 +4,7 @@
 <p/>
 <br>
 
-Hey :wave: I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software Engineering** in **Daffodil International University** in Dhaka :bangladesh:
+Hey ,<br> I'm **Moniruzzaman Rony** graduated B.Sc Engineering  in **Software Engineering** in **Daffodil International University** in Dhaka :bangladesh:
 
 <p align='center'>
  <a href = "https://drive.google.com/drive/folders/11rF1eZOeLsv6Hgj3P9AN9FvoezelKQlo?usp=sharing" > Here is my Resume </a> 
